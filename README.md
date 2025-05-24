@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on an indie videogame I'm making with my friends
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: My first programming language ever was Lua!
-- Why are ggs in dairy isles?
+- Why are eggs in dairy isles?
 
 <!---
 ZoomingLightningbugGirl/ZoomingLightningbugGirl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
